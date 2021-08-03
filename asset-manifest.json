@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/inspire-coders/static/css/main.a617e044.chunk.css",
+    "main.js": "/inspire-coders/static/js/main.f678615e.chunk.js",
+    "main.js.map": "/inspire-coders/static/js/main.f678615e.chunk.js.map",
+    "runtime-main.js": "/inspire-coders/static/js/runtime-main.c478d767.js",
+    "runtime-main.js.map": "/inspire-coders/static/js/runtime-main.c478d767.js.map",
+    "static/js/2.fb0755d6.chunk.js": "/inspire-coders/static/js/2.fb0755d6.chunk.js",
+    "static/js/2.fb0755d6.chunk.js.map": "/inspire-coders/static/js/2.fb0755d6.chunk.js.map",
+    "static/js/3.cdbe9f91.chunk.js": "/inspire-coders/static/js/3.cdbe9f91.chunk.js",
+    "static/js/3.cdbe9f91.chunk.js.map": "/inspire-coders/static/js/3.cdbe9f91.chunk.js.map",
+    "index.html": "/inspire-coders/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/inspire-coders/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.fb0755d6.chunk.js.LICENSE.txt": "/inspire-coders/static/js/2.fb0755d6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/inspire-coders/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c478d767.js",
+    "static/js/2.fb0755d6.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f678615e.chunk.js"
+  ]
+}
