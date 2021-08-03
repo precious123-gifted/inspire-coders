@@ -119,12 +119,16 @@ export function Navigation() {
   }, [])
 
   //animations
+useEffect(()=>{
+
+  alert('i love you so much adetola and i promise to work harder to fufill my dreams,i will make you happy,you really mean alot to me baby')
+})
 
 
   return (
     <div ref={NAv} className='nav'>
       <div className='navigation'>
-        <h2 className='IC'>inspire coders</h2>
+        <span className='IC'>inspire coders</span>
         <ul className='links'>
           <li className='li'>Home</li>
           <li className='li'>About</li>
