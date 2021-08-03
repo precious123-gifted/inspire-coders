@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/inspire-coders/static/css/main.a617e044.chunk.css",
-    "main.js": "/inspire-coders/static/js/main.f678615e.chunk.js",
-    "main.js.map": "/inspire-coders/static/js/main.f678615e.chunk.js.map",
-    "runtime-main.js": "/inspire-coders/static/js/runtime-main.c478d767.js",
-    "runtime-main.js.map": "/inspire-coders/static/js/runtime-main.c478d767.js.map",
-    "static/js/2.fb0755d6.chunk.js": "/inspire-coders/static/js/2.fb0755d6.chunk.js",
-    "static/js/2.fb0755d6.chunk.js.map": "/inspire-coders/static/js/2.fb0755d6.chunk.js.map",
-    "static/js/3.cdbe9f91.chunk.js": "/inspire-coders/static/js/3.cdbe9f91.chunk.js",
-    "static/js/3.cdbe9f91.chunk.js.map": "/inspire-coders/static/js/3.cdbe9f91.chunk.js.map",
+    "main.css": "/inspire-coders/static/css/main.cf54a9b9.chunk.css",
+    "main.js": "/inspire-coders/static/js/main.d16c53e5.chunk.js",
+    "main.js.map": "/inspire-coders/static/js/main.d16c53e5.chunk.js.map",
+    "runtime-main.js": "/inspire-coders/static/js/runtime-main.4f39e174.js",
+    "runtime-main.js.map": "/inspire-coders/static/js/runtime-main.4f39e174.js.map",
+    "static/js/2.f33e23b1.chunk.js": "/inspire-coders/static/js/2.f33e23b1.chunk.js",
+    "static/js/2.f33e23b1.chunk.js.map": "/inspire-coders/static/js/2.f33e23b1.chunk.js.map",
+    "static/js/3.2142a13f.chunk.js": "/inspire-coders/static/js/3.2142a13f.chunk.js",
+    "static/js/3.2142a13f.chunk.js.map": "/inspire-coders/static/js/3.2142a13f.chunk.js.map",
     "index.html": "/inspire-coders/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/inspire-coders/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.fb0755d6.chunk.js.LICENSE.txt": "/inspire-coders/static/js/2.fb0755d6.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/inspire-coders/static/media/logo.6ce24c58.svg"
+    "static/css/main.cf54a9b9.chunk.css.map": "/inspire-coders/static/css/main.cf54a9b9.chunk.css.map",
+    "static/js/2.f33e23b1.chunk.js.LICENSE.txt": "/inspire-coders/static/js/2.f33e23b1.chunk.js.LICENSE.txt",
+    "static/media/1.11728f30.png": "/inspire-coders/static/media/1.11728f30.png",
+    "static/media/2.f1ecc813.png": "/inspire-coders/static/media/2.f1ecc813.png",
+    "static/media/3.369be679.png": "/inspire-coders/static/media/3.369be679.png",
+    "static/media/Studyonline.b743c0f0.png": "/inspire-coders/static/media/Studyonline.b743c0f0.png",
+    "static/media/Webdesign.65ad279a.png": "/inspire-coders/static/media/Webdesign.65ad279a.png",
+    "static/media/Workathome.a6523e88.png": "/inspire-coders/static/media/Workathome.a6523e88.png",
+    "static/media/briefVector.ddd4a9da.png": "/inspire-coders/static/media/briefVector.ddd4a9da.png",
+    "static/media/briefvectore.49ce630e.png": "/inspire-coders/static/media/briefvectore.49ce630e.png",
+    "static/media/cant.b8c5fb85.png": "/inspire-coders/static/media/cant.b8c5fb85.png",
+    "static/media/headerImage.6d8748af.png": "/inspire-coders/static/media/headerImage.6d8748af.png",
+    "static/media/websiteDesignVector.0f79992a.png": "/inspire-coders/static/media/websiteDesignVector.0f79992a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c478d767.js",
-    "static/js/2.fb0755d6.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.f678615e.chunk.js"
+    "static/js/runtime-main.4f39e174.js",
+    "static/js/2.f33e23b1.chunk.js",
+    "static/css/main.cf54a9b9.chunk.css",
+    "static/js/main.d16c53e5.chunk.js"
   ]
 }
