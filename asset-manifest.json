@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/inspire-coders/static/css/main.9df1a11b.chunk.css",
-    "main.js": "/inspire-coders/static/js/main.10a235e7.chunk.js",
-    "main.js.map": "/inspire-coders/static/js/main.10a235e7.chunk.js.map",
+    "main.js": "/inspire-coders/static/js/main.da2c4ea3.chunk.js",
+    "main.js.map": "/inspire-coders/static/js/main.da2c4ea3.chunk.js.map",
     "runtime-main.js": "/inspire-coders/static/js/runtime-main.4f39e174.js",
     "runtime-main.js.map": "/inspire-coders/static/js/runtime-main.4f39e174.js.map",
     "static/js/2.f33e23b1.chunk.js": "/inspire-coders/static/js/2.f33e23b1.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.4f39e174.js",
     "static/js/2.f33e23b1.chunk.js",
     "static/css/main.9df1a11b.chunk.css",
-    "static/js/main.10a235e7.chunk.js"
+    "static/js/main.da2c4ea3.chunk.js"
   ]
 }
